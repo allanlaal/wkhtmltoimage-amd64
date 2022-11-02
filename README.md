@@ -10,5 +10,5 @@ More about the functionality of wkhtmltopdf and wkthmltoimage can be found there
 You can install this package with [composer](https://getcomposer.org/)
 
 ```
-composer require lissonpsantos2/wkhtmltopdf-amd64
+composer require lissonpsantos2/wkhtmltoimage-amd64
 ```
